@@ -1,0 +1,9 @@
+[{
+   "id": 0,
+   "nome": "Nome do projeto",
+   "descricao": "Breve resumo do projeto aqui. Explique o problema que ele resolve, as tecnologias utilizadas (ex: Spring Boot, PostgreSQL, Docker) e quais padrões de projeto aplicou.",
+   "tecnologias": "Java & Spring",
+    "imagemURL": "URL da imagem",
+    "repositorio" : "Link do repositorio"
+}
+]
